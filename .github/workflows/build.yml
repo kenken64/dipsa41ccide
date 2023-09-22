@@ -48,11 +48,7 @@ jobs:
                     "type": "section",
                     "text": {
                       "type": "mrkdwn",
-                      "text": "Name 
-                       Kenneth Phang                 Matriculation: 123 
-                        Email 
-                         fred@email.com               Repository 
-                          http://wwww "
+                      "text": "Name \nKenneth Phang                 Matriculation: 123 \nEmail \nfred@email.com               Repository \\n http://wwww "
                     }
                   },
                   {
@@ -61,9 +57,7 @@ jobs:
                     "fields": [
                       {
                         "type": "mrkdwn",
-                        "text": "Deployment 
-                        [https://link-url-here.org](https://link-url-here.org) 
-                         [Open application](https://link-url-here.org)"
+                        "text": "Deployment \n[https://link-url-here.org](https://link-url-here.org) \n[Open application](https://link-url-here.org)"
                       }
                     ]
                   }
