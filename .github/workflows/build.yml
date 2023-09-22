@@ -48,7 +48,7 @@ jobs:
                     "type": "section",
                     "text": {
                       "type": "mrkdwn",
-                      "text": "Name \nKenneth Phang                 Matriculation: 123 \nEmail \nfred@email.com               Repository \n<http://wwww> "
+                      "text": "*Name* \nKenneth Phang                 *Matriculation* 123 \n*Email* \nfred@email.com               *Repository* <http://wwww> "
                     }
                   },
                   {
@@ -57,7 +57,7 @@ jobs:
                     "fields": [
                       {
                         "type": "mrkdwn",
-                        "text": "Deployment \n<https://link-url-here.org> \n<https://link-url-here.org|Open application>"
+                        "text": "*Deployment* \n<https://link-url-here.org> \n<https://link-url-here.org|Open application>"
                       }
                     ]
                   }
