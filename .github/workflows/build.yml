@@ -42,13 +42,13 @@ jobs:
         with:
           payload: |
               {
-                "text": "CICD Workshop by Kenneth",
+                "text": "DipSA41C CI/CD Assignment Submission",
                 "blocks": [
                   {
                     "type": "section",
                     "text": {
                       "type": "mrkdwn",
-                      "text": "Name : Kenneth Phang"
+                      "text": "Name <br> Kenneth Phang &emsp; &emsp; &emsp; Matriculation: 123 <br> Email <br> fred@email.com &emsp; &emsp; &emsp; Repository <br> http://wwww "
                     }
                   },
                   {
@@ -57,7 +57,7 @@ jobs:
                     "fields": [
                       {
                         "type": "mrkdwn",
-                        "text": "Github URL : xxxx"
+                        "text": "Deployment <br> [https://link-url-here.org](https://link-url-here.org) <br> [Open application](https://link-url-here.org)"
                       }
                     ]
                   }
